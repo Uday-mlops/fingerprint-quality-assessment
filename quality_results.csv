@@ -1,0 +1,21 @@
+Category,Image,Passed,Score,Blur,Brightness,Glare,ROI,Ridge,Guidance
+good,good1.jpeg,True,97.62,650.93,146.26,0.0008,0.72,385401.72,Good capture — ready for processing.
+good,good2.jpeg,True,97.22,633.74,149.26,0.0009,0.84,383332.19,Good capture — ready for processing.
+good,good3.jpeg,True,97.49,780.71,147.74,0.0007,0.81,459915.62,Good capture — ready for processing.
+good,good4.jpeg,True,97.29,813.83,148.74,0.0009,0.83,413200.41,Good capture — ready for processing.
+good,good5.jpeg,True,97.06,946.28,150.76,0.0009,0.85,396626.44,Good capture — ready for processing.
+blur,blur1.jpeg,False,98.04,169.57,144.62,0.0,0.71,336818.5,Hold the phone steady.
+blur,blur2.jpeg,False,97.11,296.65,151.54,0.0004,0.86,401073.59,Hold the phone steady.
+blur,blur3.jpeg,False,97.51,124.22,148.87,0.0002,0.84,422649.56,Hold the phone steady.
+blur,blur4.jpeg,False,97.52,97.24,148.94,0.0001,0.79,439708.75,Hold the phone steady.
+blur,blur5.jpeg,False,97.36,116.98,150.16,0.0002,0.84,438878.59,Hold the phone steady.
+dark,dark1.jpeg,False,83.67,29.42,78.15,0.0,0.4,237254.83,Increase the lighting.
+dark,dark2.jpeg,False,88.73,39.13,78.2,0.0,0.48,367013.0,Increase the lighting.
+dark,dark3.jpeg,False,89.93,70.48,80.31,0.0,0.31,363357.59,Increase the lighting.
+dark,dark4.jpeg,False,93.18,73.33,77.21,0.0,0.38,367106.16,Increase the lighting.
+dark,dark5.jpeg,False,87.8,45.14,76.38,0.0,0.33,418641.41,Increase the lighting.
+glare,glare1.jpeg,False,77.56,15.21,84.92,0.0,0.41,69962.22,Increase the lighting.
+glare,glare2.jpeg,False,76.84,12.6,89.99,0.0,0.57,74942.45,Hold the phone steady.
+glare,glare3.jpeg,False,79.78,19.95,83.7,0.0,0.57,173067.47,Increase the lighting.
+glare,glare4.jpeg,False,77.33,18.67,68.22,0.0,0.71,150777.78,Increase the lighting.
+glare,glare5.jpeg,False,75.68,14.61,71.42,0.0,0.63,77599.64,Increase the lighting.
